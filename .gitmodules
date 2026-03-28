@@ -7,3 +7,6 @@
 [submodule "sem2/assembler"]
 	path = sem2/assembler
 	url = git@github.com:KingaEwaAdamska/ASM-learning.git
+[submodule "sem2/systemy-operacyjne"]
+	path = sem2/systemy-operacyjne
+	url = git@github.com:KingaEwaAdamska/SO_lab.git
