@@ -1,3 +1,6 @@
 [submodule "sem4/jezyki-skryptowe"]
 	path = sem4/jezyki-skryptowe
 	url = git@github.com:KingaEwaAdamska/jezyki-skryptowe.git
+[submodule "sem3/techniki-efektywnego-programowania"]
+	path = sem3/techniki-efektywnego-programowania
+	url = git@github.com:KingaEwaAdamska/techniki-efektywnego-programowania.git
