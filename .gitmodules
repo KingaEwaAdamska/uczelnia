@@ -4,3 +4,6 @@
 [submodule "sem3/techniki-efektywnego-programowania"]
 	path = sem3/techniki-efektywnego-programowania
 	url = git@github.com:KingaEwaAdamska/techniki-efektywnego-programowania.git
+[submodule "sem2/assembler"]
+	path = sem2/assembler
+	url = git@github.com:KingaEwaAdamska/ASM-learning.git
