@@ -10,3 +10,6 @@
 [submodule "sem2/systemy-operacyjne"]
 	path = sem2/systemy-operacyjne
 	url = git@github.com:KingaEwaAdamska/SO_lab.git
+[submodule "sem3/paradygmaty-programowania"]
+	path = sem3/paradygmaty-programowania
+	url = git@github.com:KingaEwaAdamska/paradygmaty-programowania.git
