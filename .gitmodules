@@ -1,0 +1,3 @@
+[submodule "sem4/jezyki-skryptowe"]
+	path = sem4/jezyki-skryptowe
+	url = git@github.com:KingaEwaAdamska/jezyki-skryptowe.git
